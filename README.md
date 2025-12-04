@@ -4,7 +4,7 @@
 **Senior Software Engineer @ Modus Create** 
 <br>
 <br>
-Backend | Frontend | Java, Typescript, React, AI, Svelte, NestJS, Monorepo, Microservices, Microfrontends, Observability | Technical Writer
+Backend | Frontend | Go, Java, Typescript, React, AI, Svelte, NestJS, Monorepo, Microservices, Microfrontends, Observability | Technical Writer
 
 ---
 
@@ -24,7 +24,7 @@ In my free time, I love writing technical articles. Checkout my profile on [Medi
 
 ### Key Skills
 - **Frontend Development:** React, Svelte, Microfrontends, TypeScript
-- **Backend Development:** NodeJS, NestJS, Java, Microservices, Keycloak, NATS. 
+- **Backend Development:** Go, NodeJS, NestJS, Java, Microservices, Keycloak, NATS. 
 - **DevOps:** CI/CD, Docker, AWS, Observability
 - **Databases:** PostgreSQL, MySQL
 - **Others:** System Design, Code Reviews, Technical Documentation

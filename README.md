@@ -4,7 +4,7 @@
 **Senior Software Engineer @ Modus Create** 
 <br>
 <br>
-Backend | Frontend | Go, Java, Typescript, React, AI, Svelte, NestJS, Monorepo, Microservices, Microfrontends, Observability | Technical Writer
+Backend | Frontend | Go, Java, Svelte, Typescript, React, AI, NestJS, Monorepo, Microservices, Microfrontends, Observability | Technical Writer
 
 ---
 
